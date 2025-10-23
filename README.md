@@ -17,7 +17,7 @@ Key outputs include centroid trajectory analyses, wireframe visualizations of li
 | `Centroid_analysis_Symgaits.R` | R script for centroid trajectory analysis of symmetrical gaits. |
 | `Centroid_analysis_aSymgaits.R` | R script for centroid trajectory analysis of asymmetrical gaits. |
 | `Correlations_angles_along_PCs.R` | Correlates limb/track angles with principal component axes. |
-| `LAD_attempt2.R`, `LAD_attempt2_figure.R` | Implements Linear Additive Decomposition (LAD) analysis and plots. |
+| `thylacine_cluster_classification.R`, `thylacine_cluster_classification_figure.R` | assigns the thylacine to a behavioral cluster and plots. |
 | `Make_Supp_Tables.R` | Generates all supplementary tables (e.g. Table S1). |
 | `Make_density_plots_and_Stickfigures.R` | Produces density plots of shape variation and stick-figure visualisations. |
 | `PLotting_wireframes_alongPCs.R` | Plots wireframes of limb/track shapes along PC axes. |
