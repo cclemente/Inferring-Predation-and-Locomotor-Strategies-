@@ -1,0 +1,75 @@
+"","PC1","PC2","clade","species","cluster","gait","mass"
+"1",0.135956108016583,0.0958912851644291,"Vivverid","Proteles cristata","Anteaters","Pace",7.9
+"2",-0.0814137765461228,0.00678636410054575,"Felid","Felis lybica","OppGrap","LS Walk",4.5
+"3",-0.0400468858230064,-0.0449431164760682,"Felid","Panthera pardus orientalis","LrgGrapp","LS Walk",48
+"4",0.055893231195531,-0.0335176459022503,"Canid","Canis mesomelas","OppPounce","LS Walk",7
+"5",0.0733372543338525,-0.0442926585633622,"Felid","Lynx rufus","OppGrap","LS Walk",20
+"6",-0.10253267135582,-0.00755799264518352,"Felid","Lynx rufus","OppGrap","LS Walk",20
+"7",0.0990904276647061,-0.023993091820237,"Vivverid","Parahyaena brunnea","OppPounce","LS Walk",44
+"8",0.0175750827854058,-0.00869819191461895,"Canid","Vulpes lagopus","OppPounce","LS Walk",9
+"9",-0.065049948707066,-0.0446713455936588,"Canid","Vulpes chama","OppPounce","LS Walk",3.5
+"10",0.00418884452475731,-0.00782413181236745,"Felid","Caracal caracal","OppGrap","LS Walk",14
+"11",-0.0372643454590635,0.0826362647691038,"Felid","Acinonyx jubatus","SocHunt","LS Walk",46
+"12",-0.0294367804038036,0.0838069339476641,"Felid","Acinonyx jubatus","SocHunt","LS Walk",46
+"13",0.036189023578874,-0.0841966009831297,"Vivverid","Civettictis civetta","OppPounce","LS Walk",10
+"14",0.0332133139719471,0.0529901174808508,"Canid","Canis latrans","OppPounce","Trot",20
+"15",0.0541527319143239,0.0452655324293217,"Canid","Canis latrans","OppPounce","LS Walk",20
+"16",-0.018012639653416,0.034519242467747,"Canid","Lycalopex culpaeus","OppPounce","Trot",13.4
+"17",0.0159502429559327,0.0207296629115896,"Canid","Canis familiaris dingo","SocHunt","LS Walk",20
+"18",0.0103109157095926,0.0587713082168248,"Canid","Canis familiaris","SocHunt","LS Walk",25
+"19",-0.0744858132488859,0.0858985297307731,"Felid","Felis catus","OppGrap","LS Walk",4.5
+"20",-0.0589051308234915,0.0368201469213885,"Felid","Felis catus","OppGrap","LS Walk",4.5
+"21",-0.017581916877778,0.0287896591249157,"Felid","Felis catus","OppGrap","LS Walk",4.5
+"22",-0.0639104225112512,0.0158134613182395,"Felid","Felis catus","OppGrap","LS Walk",4.5
+"23",-0.0546030487772758,-0.0053429688299011,"Felid","Felis catus","OppGrap","LS Walk",4.5
+"24",-0.0516340988343169,0.0495215071396682,"Felid","Felis catus","OppGrap","LS Walk",4.5
+"25",-0.039954193859513,0.0182038709307907,"Felid","Felis catus","OppGrap","LS Walk",4.5
+"26",-0.034927213847892,-0.0409170700696617,"Felid","Felis catus","OppGrap","LS Walk",4.5
+"27",0.0212183735972338,0.0827391997821226,"Canid","Canis familiaris","SocHunt","LS Walk",30
+"28",0.0307526069900325,0.0393299014189515,"Canid","Canis simensis","OppPounce","LS Walk",14
+"29",0.0264106258196364,-0.0589991107670405,"Felid","Felis catus","OppGrap","Pace",4.5
+"30",0.0217823200706316,-0.00246179687307032,"Canid","Vulpes vulpes","OppPounce","Trot",10
+"31",-0.05803687457037,0.0277671406873647,"Felid","Leopardus geoffroyi","OppGrap","LS Walk",4
+"32",0.00409957955262893,-0.0646945497415519,"Canid","Urocyon cinereoargenteus","OppPounce","LS Walk",3.8
+"33",0.0141821925984115,0.0823091547233386,"Canid","Canis familiaris","SocHunt","Pace",30
+"34",0.0257866192289236,0.0237883768661198,"Canid","Canis lupus","SocHunt","LS Walk",50
+"35",-0.0360488010468361,0.0976078424400829,"Canid","Gulo gulo","OppGrap","LS Walk",18
+"36",0.0704190598639304,-0.00403859184379998,"Vivverid","Crocuta crocuta","SocHunt","Pace",60
+"37",0.0618136087581721,0.0115805504174608,"Vivverid","Crocuta crocuta","SocHunt","Pace",60
+"38",-0.0490470372390377,-0.00910306240480348,"Felid","Panthera onca","LrgGrapp","LS Walk",96
+"39",0.00267984364285356,0.0207261344111154,"Felid","Panthera onca","LrgGrapp","LS Walk",96
+"40",-0.025095963457413,0.0259848328517086,"Felid","Puma yagouaroundi","OppGrap","LS Walk",6.9
+"41",0.0149082217147043,0.0176989684476508,"Canid","Vulpes macrotis","OppPounce","LS Walk",2.5
+"42",-0.0465346752263659,0.0364155724103451,"Felid","Panthera pardus","LrgGrapp","LS Walk",65
+"43",-0.017021669662174,0.0350235221795086,"Felid","Panthera pardus","LrgGrapp","Trot",65
+"44",-0.0187398674835688,0.0256895741607402,"Felid","Panthera leo","SocHunt","LS Walk",190
+"45",-0.0233294889593341,0.0356221546365219,"Felid","Panthera leo","SocHunt","LS Walk",190
+"46",-0.0830898591913777,0.00207223620512023,"Felid","Lynx lynx","OppGrap","LS Walk",30
+"47",0.0560167765125517,-0.00892501329750145,"Canid","Chrysocyon brachyurus","OppPounce","LS Walk",23
+"48",0.00993465240791938,0.0112216949821408,"Felid","Puma concolor","LrgGrapp","LS Walk",58
+"49",0.0372124407898395,-0.065009157962944,"Dasyurid","Dasyurus hallucatus","OppGrap","Trot",0.6
+"50",-0.0320650923952459,-0.0328831480167248,"Dasyurid","Myrmecobius fasciatus","Anteaters","LS Walk",0.7
+"51",-0.0492618631062257,0.00626170002343544,"Felid","Leopardus pardalis","OppGrap","LS Walk",16
+"52",-0.0295479395931923,-0.0327599420227796,"Felid","Leopardus tigrinus","OppGrap","LS Walk",3.5
+"53",0.0223935929671658,0.13161028928007,"Canid","Lycaon pictus","SocHunt","LS Walk",22
+"54",0.00335962084644757,0.0480213205125085,"Canid","Lycaon pictus","SocHunt","Trot",22
+"55",0.01233910070119,0.00189581867308619,"Canid","Lycalopex gymnocercus","OppPounce","LS Walk",8
+"56",0.00315268350545298,-0.0064183045004164,"Canid","Nyctereutes procyonoides","OppPounce","LS Walk",10
+"57",0.0313549892923798,-0.0354454341741124,"Canid","Vulpes vulpes","OppPounce","LS Walk",10
+"58",0.0304509052568403,-0.0972197028082665,"Dasyurid","Dasyurus maculatus","OppGrap","LS Walk",2.76
+"59",0.000361477594092361,-0.14324925193088,"Dasyurid","Dasyurus maculatus","OppGrap","LS Walk",2.76
+"60",0.0678927050087335,-0.091450699877907,"Dasyurid","Dasyurus maculatus","OppGrap","Trot",3.3
+"61",0.048582572897368,-0.0973945003578483,"Dasyurid","Dasyurus maculatus","OppGrap","LS Walk",3.3
+"62",0.027031569613275,-0.0663083665230685,"Dasyurid","Dasyurus maculatus","OppGrap","LS Walk",3.3
+"63",0.00320993203968772,-0.162917056105714,"Dasyurid","Dasyurus maculatus","OppGrap","LS Walk",3.3
+"64",-0.0123157934564133,-0.0876966652554615,"Dasyurid","Dasyurus maculatus","OppGrap","LS Walk",3.3
+"65",-0.0834990302619726,0.0114098672183033,"Felid","Felis margarita","OppGrap","LS Walk",2.8
+"66",-0.0417687105060974,0.015400086732404,"Felid","Leptailurus serval","OppGrap","LS Walk",12
+"67",-0.0788248977466691,-0.0330099537271751,"Felid","Leptailurus serval","OppGrap","LS Walk",12
+"68",0.0647216960228876,-0.0626149415525556,"Dasyurid","Sarcophilus harrisii","OppGrap","LS Walk",8
+"69",0.00623937056973736,-0.0168600109026535,"Dasyurid","Dasyurus viverrinus","OppGrap","LS Walk",1.1
+"70",0.115160262292961,0.0210567827631945,"Thylacine","Thylacinus cynocephalus","Thylacine","LS Walk",25
+"71",0.0558300594869501,-0.0900613066615021,"Thylacine","Thylacinus cynocephalus","Thylacine","LS Walk",25
+"72",0.0319049662023107,0.0365860433300062,"Canid","Vulpes ferrilata","OppPounce","LS Walk",5.5
+"73",-0.0248988780285536,-0.052447797108604,"Felid","Panthera tigris","LrgGrapp","LS Walk",200
+"74",0.021825726163094,0.103660527219667,"Canid","Canis lupus","SocHunt","Trot",50

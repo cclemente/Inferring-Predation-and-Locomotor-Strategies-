@@ -1,0 +1,42 @@
+"","PC1","PC2","clade","species","cluster","gait","mass"
+"1",-0.0323474714966472,0.0134273219238313,"Dasyurid","Sarcophilus harrisii","OppGrap","Transverse Gallop",6.8
+"2",0.0650787759375736,0.0760666895250234,"Dasyurid","Sarcophilus harrisii","OppGrap","Bound",4.7
+"3",-0.0392608775300316,0.0595262066673689,"Dasyurid","Sarcophilus harrisii","OppGrap","Bound",9.5
+"4",-0.0213261084862575,0.0631738156353116,"Dasyurid","Sarcophilus harrisii","OppGrap","Transverse Gallop",8.7
+"5",-0.0527897621028885,0.0267631555172701,"Dasyurid","Sarcophilus harrisii","OppGrap","Transverse Gallop",6.6
+"6",-0.125628836860839,0.0226797435670951,"Viverroid","Proteles cristata","Anteaters","Transverse Gallop",7.9
+"7",-0.0219876067009808,-0.0400592585563353,"Canid","Canis mesomelas","OppPounce","Transverse Gallop",7
+"8",0.134356119763349,-0.0219742909945072,"Felid","Lynx rufus","OppGrap","Bound",20
+"9",0.0490838311671342,-0.112107758087973,"Canid","Canis familiaris","SocHunt","Rotary Gallop",25
+"10",0.034998018801433,-0.016236474666256,"Felid","Caracal caracal","OppGrap","Bound",14
+"11",-0.0325008123614907,-0.0363710809692904,"Felid","Acinonyx jubatus","SocHunt","Rotary Gallop",46
+"12",-0.0181974567070813,0.0302868348387148,"Felid","Acinonyx jubatus","SocHunt","Rotary Gallop",46
+"13",0.0222098487854089,0.11493615473735,"Felid","Acinonyx jubatus","SocHunt","Rotary Gallop",46
+"14",0.0139858658106149,-0.0850915418487688,"Canid","Canis lupus","SocHunt","Rotary Gallop",50
+"15",-0.0488675273914852,-0.0568676133145746,"Felid","Acinonyx jubatus","SocHunt","Bound",46
+"16",0.000505305183976555,0.015693101587344,"Dasyurid","Dasyurus maculatus","OppGrap","Transverse Gallop",3.3
+"17",0.0679443905362058,-0.00532909120446693,"Felid","Felis catus","OppGrap","Transverse Gallop",4.5
+"18",0.00747956552483316,-0.0345549981585312,"Canid","Vulpes vulpes","OppPounce","Transverse Gallop",10
+"19",-0.0600180392089959,0.0249687207273151,"Dasyurid","Dasyurus maculatus","OppGrap","Bound",3.7
+"20",-0.0218079827963721,0.106137342531537,"Dasyurid","Sarcophilus harrisii","OppGrap","Transverse Gallop",3.7
+"21",-0.0126169709377368,0.0395063994901042,"Dasyurid","Sarcophilus harrisii","OppGrap","Transverse Gallop",6
+"22",0.000426402997684697,-0.0573790857345087,"Canid","Canis familiaris","SocHunt","Rotary Gallop",30
+"23",-0.0110004645686884,0.0702817862671536,"Canid","Gulo gulo","OppGrap","Transverse Gallop",18
+"24",-0.0410881844928597,-0.137127691826454,"Viverroid","Crocuta crocuta","SocHunt","Transverse Gallop",60
+"25",0.0206634605799254,-0.0288810903345773,"Felid","Panthera onca","LrgGrapp","Bound",96
+"26",0.0257238394689979,-0.0579513875407282,"Felid","Panthera pardus","LrgGrapp","Rotary Gallop",65
+"27",0.0162941402624603,0.0143689355765535,"Felid","Panthera leo","SocHunt","Rotary Gallop",130
+"28",-0.066532492134356,-0.0118389638964771,"Canid","Chrysocyon brachyurus","OppPounce","Transverse Gallop",23
+"29",0.0244758898988213,0.0028301267258252,"Felid","Puma concolor","LrgGrapp","Rotary Gallop",58
+"30",0.132587930337778,0.0526988071337429,"Felid","Puma concolor","LrgGrapp","Rotary Gallop",58
+"31",0.0359263222505999,0.0465608622153541,"Dasyurid","Myrmecobius fasciatus","Anteaters","Transverse Gallop",0.7
+"32",-0.0666184200819386,-0.0772568663215178,"Canid","Lycaon pictus","SocHunt","Rotary Gallop",22
+"33",-0.018506055125592,-0.104334846734212,"Canid","Canis latrans","OppPounce","Bound",36
+"34",0.165055631505127,-0.0307100858189057,"Felid","Leptailurus serval","OppGrap","Rotary Gallop",12
+"35",-0.0546234090010461,0.0988578919709711,"Dasyurid","Dasyurus maculatus","OppGrap","Bound",3.3
+"36",-0.0857670795312522,-0.0931568644978393,"Viverroid","Parahyaena brunnea","OppPounce","Rotary Gallop",55
+"37",0.0652838213749466,0.108230211977824,"Dasyurid","Sarcophilus harrisii","OppGrap","Rotary Gallop",4
+"38",-0.0137235997376059,0.0368495924709905,"Felid","Panthera tigris","LrgGrapp","Rotary Gallop",200
+"39",-0.0268493134249809,-0.0503050647777908,"Canid","Canis lupus","SocHunt","Rotary Gallop",50
+"40",0.0313708326207686,-0.0361019227163518,"Canid","Canis lupus","SocHunt","Transverse Gallop",50
+"41",-0.0413915221285134,0.0697922769133859,"Dasyurid","Sarcophilus harrisii","OppGrap","Transverse Gallop",10.5
