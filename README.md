@@ -113,7 +113,8 @@ See the [`LICENSE`](./LICENSE) file for details.
 **Christofer J. Clemente**  
 Biomechanics & Biorobotics Lab,  
 University of the Sunshine Coast, Australia  
-[https://www.christoferclemente.com](https://www.christoferclemente.com)
+
+[https://biomechanics-and-biorobotics-lab.com](https://biomechanics-and-biorobotics-lab.com)
 
 ---
 
