@@ -96,7 +96,7 @@ If you’d like to add species, stride sequences, or additional analyses:
 ---
 
 ## 📜 Citation  
-If you use this dataset or scripts, please cite:
+This dataset is currently unpublished and has not been peer reviewed. If you use this dataset or scripts, please cite:
 
 > Clemente, C. J. (2025). *Inferring Predation and Locomotor Strategies.*  
 > GitHub Repository: [https://github.com/cclemente/Inferring-Predation-and-Locomotor-Strategies](https://github.com/cclemente/Inferring-Predation-and-Locomotor-Strategies)
