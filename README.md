@@ -126,6 +126,7 @@ Bella R. Chaseling
 David G. Hamilton  
 Christofer J. Clemente
 
-Biomechanics and Biorobotics Lab, University of the Sunshine Coast, Australia
+[Biomechanics and Biorobotics Lab](https://biomechanics-and-biorobotics-lab.com/), University of the Sunshine Coast, Australia
+
 
 Last updated: 27 July 2026
