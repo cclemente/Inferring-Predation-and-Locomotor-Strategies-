@@ -24,7 +24,7 @@ Only sequences marked **Checked** in `Morpho_Meta_V4_URLs.xlsx` are included in 
 | `data/` | Raw and processed stride coordinates and analysis-ready datasets. |
 | `figures/` | Figures generated for the manuscript and supplementary material. |
 | `Morpho_Meta_V4_URLs.xlsx` | Video-level metadata, including inclusion status, source URL or provenance, video identifier, gait, symmetry class, species, mass estimate, and screening comments. |
-| `Table_S1_Species_List.docx` | Supplementary Table S1. Lists all included stride sequences with species information, gait counts, video identifiers, URLs or provenance statements, and comments. |
+| `Table_S1_Analysed_Strides.docx` | Supplementary Table S1. Lists all included stride sequences with species information, gait counts, video identifiers, URLs or provenance statements, and comments. |
 | `Centroid_analysis_Symgaits.R` | Centroid and morphospace analyses for symmetrical gaits. |
 | `Centroid_analysis_aSymgaits.R` | Centroid and morphospace analyses for asymmetrical gaits. |
 | `Correlations_angles_along_PCs.R` | Correlates anatomical angles and limb ratios with principal-component axes. |
@@ -55,7 +55,7 @@ Table S1 reports, for every included stride:
 - source URL or provenance statement; and
 - screening comments.
 
-For the complete list, see [`Table_S1_Species_List.docx`](Table_S1_Species_List.docx).
+For the complete list, see [`Table_S1_Analysed_Strides.docx`](Table_S1_Analysed_Strides.docx).
 
 ---
 
