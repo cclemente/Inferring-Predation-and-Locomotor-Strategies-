@@ -9,9 +9,9 @@ The study examines whether locomotor shape is associated with predatory strategy
 The final dataset contains:
 
 - **49 species**
-- **124 included stride sequences**
-- **84 symmetrical strides**
-- **40 asymmetrical strides**
+- **115 included stride sequences**
+- **74 symmetrical strides**
+- **41 asymmetrical strides**
 
 Only sequences marked **Checked** in `Morpho_Meta_V4_URLs.xlsx` are included in the analyses and in Table S1.
 
